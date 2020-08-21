@@ -1,6 +1,6 @@
 # esrichina-i3s-opmesh-tools
 
-I3S tools--------------version 1.0
+I3S tools
 
 1、更新平移工具，支持i3s全类型和新老版本，支持文件和文件夹批量操作
 
@@ -33,5 +33,7 @@ version 1.3.1:改进透明贴图压缩
 version 1.3.2:更新合并slpk工具
 
 version 1.3.3:新增去除模型黑边工具
+
+version 1.3.4:更新slpk合并工具
 
 注意：倾斜摄影压平等工具在使用的时候如果finding没有搜索到结果，可能是你的slpk数据压缩有问题，请解压之后重新按照zip存储模式压缩为slpk
