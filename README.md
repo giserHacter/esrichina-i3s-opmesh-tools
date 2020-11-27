@@ -41,3 +41,5 @@ version 1.3.5:更新光照修改工具，修复透明贴图
 version 1.3.6:合并slpk工具支持自定义坐标系
 
 注意：倾斜摄影压平等工具在使用的时候如果finding没有搜索到结果，可能是你的slpk数据压缩有问题，请解压之后重新按照zip存储模式压缩为slpk
+
+新增i3shash.exe extraSLPK.exe工具，分别用来生成hash表和提取特定的级别的slpk
