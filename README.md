@@ -45,3 +45,5 @@ version 1.3.9:更新slpk合并工具，更新slpk和三维服务的优化工具�
 注意：倾斜摄影压平等工具在使用的时候如果finding没有搜索到结果，可能是你的slpk数据压缩有问题，请解压之后重新按照zip存储模式压缩为slpk
 
 新增i3shash.exe extraSLPK.exe工具，分别用来生成hash表和提取特定的级别的slpk
+
+# 新增点云快速发布工具，地址：https://github.com/baker5516/ArcGISToolbox
